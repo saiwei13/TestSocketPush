@@ -1,17 +1,7 @@
-# TestWebSocket
+# TestPush
 
-#Mobile websocket example
+This is example code showing notification msg from pushing server.
 
-This is example code showing how to use websockets from iOS and Android, in the form of a very simple chat service.
+测试服务器消息推送
 
-#server
-
-A simple websocket server written in **tornado**.
-
-#android
-
-Android client in Java. test web socket function.
-
-#demo
-chat demo
 
